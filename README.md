@@ -1,4 +1,4 @@
 # Lesson6JS
-JSGithub-GitBrains
+JSGithub-GeekBrains
 решения заданий по курсу python разработчик GeekBraens
 в решениях могут быть ошибки, при копировании изучите код.
